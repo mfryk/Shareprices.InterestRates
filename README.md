@@ -1,7 +1,7 @@
 # Shareprices.InterestRates
 Tableau Shareprices Interest Rates
 
-To open file copy the the .twbx file code and open in Tableau Public. 
+To open file copy the the .twbx file code and open in Tableau Desktop. 
 
 My goal was to show the relationship between Stock Prices (The S&P500) and Federal Reserve Interest rates, to see if there was a correlation between increased interest rates and a higher stock price.
 
